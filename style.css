@@ -48,6 +48,10 @@ main {
     grid-row: 2;
 }
 
+.main-grid-categories > nav > ul > li > a {
+    color: dodgerblue
+}
+
 .main-grid-latest {
     grid-column: 2;
     grid-row: 1/4;
